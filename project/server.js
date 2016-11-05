@@ -21,6 +21,9 @@ app.engine('html', require('ejs').renderFile);
 app.use(bodyParser.json()); 
 app.use(bodyParser.urlencoded({extended: false}));
 
+// Static Route Angular
+app.use(express.static(path.join(__dirname, 'client')));
+
 // Routes
 app.use('/', index);
 
