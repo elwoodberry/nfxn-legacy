@@ -4,18 +4,25 @@
 # To Do List
 1. Add SASS to the project
 2. Add Gulp to the project
-3. Create static pathes for the packages getting referenced from the 'node_modules' folder
-
 
 
 
 
 # References
 
+1. [MEAN App From Scratch](https://youtu.be/PFP0oXNNveg) 
+   MongoDB, Express, Angular 2 & NodeJS
 
-MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS, https://youtu.be/PFP0oXNNveg
+2. [Bower](https://bower.io/)  
+   A package manager for the web
 
+3. [mLab](https://mlab.com/)
+   MongoDB Hosting: Database-as-a-Service by mLab
 
+4. [](http://expressjs.com/)  
+
+[](https://angularjs.org/)
+[](https://nodejs.org/en/)
 
 
 'mLab'
@@ -25,12 +32,10 @@ Username: 'boxballoon'
 Email: 'boxballoon@gmail.com'
 Password: '1life2live'
 
-[Remote Implication of MongoDB](https://mlab.com)
 
 
-[](http://expressjs.com/)
-[](https://angularjs.org/)
-[](https://nodejs.org/en/)
+
+
 
 NODE MON
 Restarts the server for you.

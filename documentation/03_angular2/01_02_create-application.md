@@ -3,8 +3,6 @@
 ## Create '####' Application
 [Table Of Contents](../../README.md) / Create '####' Application
 
-This basic implemetation is based on the [Quick Start](https://angular.io/docs/ts/latest/quickstart.html) guide found on [Angular.io](https://angular.io). Quick Start guide as of November 2nd, 2016.
-
 ## Create '####' Application.
 
 1. Create a new folder inside the 'client' folder ('app').
@@ -36,10 +34,10 @@ This basic implemetation is based on the [Quick Start](https://angular.io/docs/t
 5. Create 'main.ts' Typescript file.  
    This code initializes the platform that your application runs in, then uses the platform to bootstrap your AppModule.  
 
-6. Compile Typescript Files
+6. Compile Typescript Files  
    All the files created are Typescript files that need to be compiled into javascript files.
 
-7. Update Views Engine HTML
+7. Update Views Engine HTML  
    Update your view engine HTML file with code based from the Angular Quick start guide.  
 
    - Chage the name in the titleapp.component.ts
@@ -52,5 +50,6 @@ This basic implemetation is based on the [Quick Start](https://angular.io/docs/t
    ```   
 
    This will fire [http://localhost:3001/](http://localhost:3001/). 
+   **Note** It is choose '3001' because port '3000' is already running. If you now navigate to [http://localhost:3000/](http://localhost:3000/) you will see the starter page.
 
 
