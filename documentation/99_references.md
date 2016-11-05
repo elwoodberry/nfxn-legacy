@@ -1,50 +1,31 @@
-[< Table Of Contents](../README.md) 
-
-
-# To Do List
-1. Add SASS to the project
-2. Add Gulp to the project
-
-
-
-
 # References
+[< Table Of Contents](../README.md)  
 
-1. [MEAN App From Scratch](https://youtu.be/PFP0oXNNveg) 
-   MongoDB, Express, Angular 2 & NodeJS
+1.[MEAN App From Scratch](https://youtu.be/PFP0oXNNveg)  
+   MongoDB, Express, Angular 2 & NodeJS  
 
 2. [Bower](https://bower.io/)  
-   A package manager for the web
+   A package manager for the web  
 
-3. [mLab](https://mlab.com/)
-   MongoDB Hosting: Database-as-a-Service by mLab
+3. [mLab](https://mlab.com/)  
+   MongoDB Hosting: Database-as-a-Service by mLab  
 
-4. [](http://expressjs.com/)  
+4. [Express](http://expressjs.com/)  
 
-[](https://angularjs.org/)
-[](https://nodejs.org/en/)
+5. [AngularJS](https://angularjs.org/)  
 
+6. [NodeJS](https://nodejs.org/en/)  
 
-'mLab'
+7. [NodeMON](https://github.com/remy/nodemon)  
 
-Account Name: 'boxballoon'
-Username: 'boxballoon'
-Email: 'boxballoon@gmail.com'
-Password: '1life2live'
+8. [Learn Angular 2 for beginners ( step by step)](https://www.youtube.com/watch?v=oMgvi-AV-eY)  
 
+9. [Angular 2 with Webpack Project Setup - Part 1: NPM Dependencies](https://youtu.be/HTFZPF6iixA)  
 
-
+10. [Angular 2 and TypeScript - A High Level Overview](https://www.infoq.com/articles/Angular2-TypeScript-High-Level-Overview)  
 
 
+# To Do List  
 
-NODE MON
-Restarts the server for you.
-
-
-
-
-Learn Angular 2 for beginners ( step by step), https://www.youtube.com/watch?v=oMgvi-AV-eY
-
-Angular 2 with Webpack Project Setup - Part 1: NPM Dependencies, https://youtu.be/HTFZPF6iixA
-
-https://www.infoq.com/articles/Angular2-TypeScript-High-Level-Overview
+1. Add SASS to the project  
+2. Add Gulp to the project  

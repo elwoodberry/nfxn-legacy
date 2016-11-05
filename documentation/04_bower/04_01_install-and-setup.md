@@ -9,14 +9,14 @@ For this project Bootstrap 3 is used for the UI components. While there are a fe
 $ npm install -g bower   
 ```  
 
-### Set Up Locations
+### Set Up Location
 For this project, when bower is used, the location of the packages will be in the 'client' directory inside a folder called 'bower_components'
 
-**Create A New Bower File**
+**Create A New Bower File**  
 In the project root, create a file called '.bowerrc'.   
 ```  
 {  
-	'directory': "client/bower_components"  
+	"directory": "client/bower_components"  
 }  
 ```  
 
