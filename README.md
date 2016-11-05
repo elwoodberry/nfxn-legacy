@@ -18,7 +18,7 @@ M.E.A.N stacked utility application. MongoDB, Express, Angular 2 and NodeJS.
 1.[Create & Configure](documentation/03_angular2/01_01_create-configure.md)  
 2.[Create Application](documentation/03_angular2/01_02_create-application.md)  
 
-**Bower Packages**
+**Bower Packages**  
 1.[Install & Setup](documentation/04_bower/04_01_install-and-setup.md)  
 
 ## References
