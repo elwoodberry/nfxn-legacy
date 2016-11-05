@@ -1,6 +1,15 @@
 [< Table Of Contents](../README.md) 
 
 
+# To Do List
+1. Add SASS to the project
+2. Add Gulp to the project
+3. Create static pathes for the packages getting referenced from the 'node_modules' folder
+
+
+
+
+
 # References
 
 

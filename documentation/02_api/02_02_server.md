@@ -30,7 +30,7 @@ Create the entry point, 'server.js'
    ```  
 
 3. The '**app**' variable  
-   - **Express**
+   - **Express**  
    Set our main app variable to Express
 
    Example
@@ -56,7 +56,7 @@ Create the entry point, 'server.js'
    ```  
 
 5. Static Routes 
-   - Where the framework is stored.
+   - Where the framework is stored.  
    ```
    app.use(express.static(path.join(__dirname, 'client')));
    ```
