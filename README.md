@@ -20,16 +20,16 @@ M.E.A.N stacked utility application. MongoDB, Express, Angular 2 and NodeJS.
 3.[Components](documentation/03_angular2/03_03_components.md)  
 3.[Routes](documentation/03_angular2/03_04_routes.md)  
 
-**Bower Packages**
+**Bower Packages**  
 1.[Install & Setup](documentation/04_bower/04_01_install-and-setup.md)  
 
-**Build System: Gulp**
+**Build System: Gulp**  
 1.[gulpfile.js](documentation/05_gulp/05_01_create-gulp.md)  
 
-**SASS**
+**SASS**  
 1.[Fonts](documentation/06_sass/06_02_font-libraries.md)  
 
-**Auth0**
+**Auth0**  
 1.[Getting Started](documentation/07_auth0/07_01_getting-started.md)  
 
 ## References
