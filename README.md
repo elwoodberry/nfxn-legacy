@@ -1,7 +1,7 @@
 # nfxn
 M.E.A.N stacked utility application. MongoDB, Express, Angular 2 and NodeJS.
 
-**Table Of Contents**   
+**Table Of Contents**  
 
 **Environment**  
 1.[Initial Setup](documentation/01_environment/01_01_initial-setup.md)  
@@ -15,11 +15,22 @@ M.E.A.N stacked utility application. MongoDB, Express, Angular 2 and NodeJS.
 5.[MongoDB Sandbox API](documentation/02_api/02_02_mongodb-sandbox-api.md)  
 
 **Angular** (version 2)  
-1.[Create & Configure](documentation/03_angular2/01_01_create-configure.md)  
-2.[Create Application](documentation/03_angular2/01_02_create-application.md)  
+1.[Configure](documentation/03_angular2/03_01_configure.md)  
+2.[Application](documentation/03_angular2/03_02_application.md)  
+3.[Components](documentation/03_angular2/03_03_components.md)  
+3.[Routes](documentation/03_angular2/03_04_routes.md)  
 
-**Bower Packages**  
+**Bower Packages**
 1.[Install & Setup](documentation/04_bower/04_01_install-and-setup.md)  
+
+**Build System: Gulp**
+1.[gulpfile.js](documentation/05_gulp/05_01_create-gulp.md)  
+
+**SASS**
+1.[Fonts](documentation/06_sass/06_02_font-libraries.md)  
+
+**Auth0**
+1.[Getting Started](documentation/07_auth0/07_01_getting-started.md)  
 
 ## References
 [References](documentation/99_references.md)  
