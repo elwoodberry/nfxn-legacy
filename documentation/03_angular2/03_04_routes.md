@@ -76,4 +76,19 @@ Its important that this application started off using routing through configurat
 	```  
 
 
+### Routing Cheatsheet
+
+1. Anchors  
+```  
+<a routerLink="/">I Am A Link To A Route</a>
+```
+
+2. Click Event  
+```  
+<a href="#" (click)="auth.login()">Login</a>   
+```  
+
+
+
+
 

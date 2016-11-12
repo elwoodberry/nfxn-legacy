@@ -32,5 +32,14 @@ M.E.A.N stacked utility application. MongoDB, Express, Angular 2 and NodeJS.
 **Auth0**  
 1.[Getting Started](documentation/07_auth0/07_01_getting-started.md)  
 
+**Themes**  
+1.[Pivot](documentation/08_themes/08_01_pivot.md)  
+
 ## References
 [References](documentation/99_references.md)  
+
+
+
+
+
+

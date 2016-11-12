@@ -30,9 +30,8 @@
 
 [Learn Angular 2 Development By Building 12 Apps](https://www.eduonix.com/courses/Web-Development/learn-angular-2-development-by-building-10-apps)
 
-# To Do List  
 
-1. Add images directory
-2. Add SASS to the project  
-3. Add Gulp to the project  
-4. Add custom font libraries
+[https://bootswatch.com/](https://bootswatch.com/)
+
+
+# To Do List  
