@@ -3,6 +3,9 @@ M.E.A.N stacked utility application. MongoDB, Express, Angular 2 and NodeJS.
 
 **Table Of Contents**  
 
+**Bug Tracking**  
+[View Open Bug Log](http://scalperssociety.myjetbrains.com/)  
+
 **Environment**  
 1.[Initial Setup](documentation/01_environment/01_01_initial-setup.md)  
 2.[Cloning The Repository](documentation/01_environment/01_02_cloning-repository.md)  
