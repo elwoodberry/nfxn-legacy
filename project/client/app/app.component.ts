@@ -1,11 +1,12 @@
-import { Component } from '@angular/core';
+import { Component } from '@angular/core';  
+import { Auth } from './services/auth.service'
 
 @Component({
-  selector: 'nfxn',
-  template: `
-  <h1>Welcome To nFXn.io</h1>
-  <h2>nFXn - Flagship Retail Currency Trading Utility Application - nfxn.io</h2>
-  `
+	moduleId: module.id,  
+	selector: 'nfxn',
+	templateUrl: 'app.component.html'
 })
 
-export class AppComponent { }
+export class AppComponent {  
+	constructor(private auth:Auth){}
+}  

@@ -27,6 +27,11 @@ app.use(express.static(path.join(__dirname, 'client')));
 // Routes
 app.use('/', index);
 
+// 404
+app.use(function (req, res, next) {
+  res.sendFile(__dirname + '/views/404.html');
+})
+
 // Listen to run the server
 app.listen(port, function(){
 	console.log('Available On Port ' + port);

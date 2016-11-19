@@ -1,0 +1,47 @@
+/*
+FULL BACKGROUND
+Different containers that span the full with and height of the screen. 
+Containers that take the highest z-index.
+*/
+
+.full-image-background {
+	background-image: url('../img/nfxn-404.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    
+	.main-container {
+		position: relative;
+		z-index: 1;
+
+		section {
+			background-color: transparent;
+
+			.container {
+				margin-top: 100px;
+			}
+			h1 {
+				color: #FFF !important;
+			}
+		}
+	}
+
+
+    .transparency {
+    	background-color: rgba(0, 0, 0, 0.5);
+    	bottom: 0;
+    	height: 100%;
+    	left: 0;
+    	position: absolute;
+    	right: 0;
+    	top: 0;
+    	width: 100%;
+    	z-index: 0;
+    }
+}
+
+.not-logged-in {
+    background-image: url('http://calpersloan.com/wp-content/uploads/2016/08/stock-market-floor-traders-image.jpg');
+}

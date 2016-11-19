@@ -1,0 +1,33 @@
+<div id="tippy-top-bar" *ngIf="auth.authenticated()">
+	<ul class="left">
+		<li>
+			<a href="" class="navReveal">
+				<span class="glyphicon glyphicon-align-justify" aria-hidden="true"></span>
+			</a>
+		</li>
+	</ul>
+
+	<ul class="right">
+		<li>You Are Logged In As <span>NAME GOES HERE</span></li>
+		<li><a href="#" class="logout" (click)="auth.logout()">Logout</a></li>
+	</ul>
+</div>
+
+<div id="adminNav" class="" *ngIf="auth.authenticated()">
+	<ul>
+		<li>
+			<a routerLink="dashboard">Dashboard</a>
+		</li>
+	</ul>
+</div>
+
+<!--
+<div id="no-login" *ngIf="!auth.authenticated()">
+	<div class="jumbotron">
+		<h2>Something is not right...</h2>
+	</div>
+</div>
+-->
+
+<router-outlet></router-outlet>  
+
