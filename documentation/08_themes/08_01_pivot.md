@@ -3,6 +3,7 @@
 
 **PIVOT**  
 Core Default Theme  
+
 **URL**: [http://lokeshdhakar.com/projects/lightbox2/](http://lokeshdhakar.com/projects/lightbox2/)  
 
 **NPM**: N/A  
@@ -11,12 +12,12 @@ Core Default Theme
 
 **CSS**
 ```  
-<link href="css/theme.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="lib/pivot/css/theme.css" rel="stylesheet" type="text/css" media="all"/>
 ```  
 
 **Scripts**  
 ```  
-<script src="js/scripts.js"></script>  
+<script src="lib/pivot/js/scripts.js"></script>  
 ```  
 
 
@@ -62,11 +63,11 @@ DEPENDENCIES
 
    **CSS**  
    ```  
-   <link href="css/flexslider.min.css" rel="stylesheet" type="text/css" media="all"/>
+   <link href="lib/flexslider/css/flexslider.min.css" rel="stylesheet" type="text/css" media="all"/>
    ```  
    **Script**  
    ```  
-   <script src="js/jquery.flexslider-min.js"></script>  
+   <script src="lib/flexslider/js/jquery.flexslider-min.js"></script>  
    ```  
 
 2. Simple Line Icons  

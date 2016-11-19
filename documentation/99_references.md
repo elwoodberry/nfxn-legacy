@@ -33,5 +33,8 @@
 
 [https://bootswatch.com/](https://bootswatch.com/)
 
+https://www.typescriptlang.org/play/index.html
+
+http://sdtimes.com/angular-2-ditches-controllers-scope-adds-typescript/
 
 # To Do List  

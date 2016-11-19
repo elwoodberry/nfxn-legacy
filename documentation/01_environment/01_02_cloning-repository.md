@@ -16,40 +16,40 @@
 	$ cd project/  
 	```  
 
-4. Install Dependencies
-	```  
-	$ npm install
-	```  
-
-5. Change directory to the 'client' directory
-	```  
-	$ cd client/  
-	```  
-
-6. Install Angular dependencies  
-	```  
-	$ npm install  
-	```  
-
-7. Change directory to the 'app' directory
-	```  
-	$ cd app/
-	```  
-8. Compile TypeScript files (**TO DO:** Update to compile typescript ONLY instead of running everything else)
-	```
-	$ npm start
-	```
-
-9. Change directory to the root project
-	```
-	$ cd .. ..
-	```
-
-10. Install Bower Package(s)  
+4. Install Bower Package(s)  
 	```  
 	bower install bootstrap
 	```  
 
+5. Install Dependencies
+	```  
+	$ npm install
+	```  
+
+6. Change directory to the 'client' directory
+	```  
+	$ cd client/  
+	```  
+
+7. Install Angular dependencies  
+	```  
+	$ npm install  
+	```  
+
+8. Change directory to the 'app' directory
+	```  
+	$ cd app/
+	```  
+
+9. Install the modules needed for Auth0 in the root 'client' directory.  
+	```  
+	$ npm install angular2-jwt auth0-lock --save--dev 
+	```  
+
+10. Compile TypeScript files (**TO DO:** Update to compile typescript ONLY instead of running everything else)
+	```
+	$ npm start
+	```  
 11. Start Server  
 	```
 	$ nodejs server
